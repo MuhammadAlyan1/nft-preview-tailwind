@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import NftPreview from './components/nftPreview';
 
 function App() {
